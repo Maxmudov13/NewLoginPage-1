@@ -19,3 +19,4 @@ Skills: Swift / SwiftUI / Git / CoreDate / Cocoapods / REST API / ParseJSON / XC
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/iMtRo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/maxmudov.ilyos.13//)  
 
+<img width="545" alt="Screenshot 2023-02-25 at 01 41 02" src="https://user-images.githubusercontent.com/72467251/224708335-2ce319ad-dc35-4614-a69a-8e43908281fc.png">
